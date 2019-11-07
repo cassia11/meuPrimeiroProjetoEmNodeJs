@@ -15,5 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "4.16.3"
+  },
+  "devDependencies": {
+    "ws": "3.3.2"
   }
 }
