@@ -14,7 +14,7 @@
   "author": "Cássia Gomes",
   "license": "ISC",
   "dependencies": {
-    "express": "4.16.3"
+    "express": "4.18.2"
   },
   "devDependencies": {
     "nodemon": "1.18.4",
